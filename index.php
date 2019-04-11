@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Sentiment Analysis Indonesia Sederhana</title>
+    <title>Sentiment Analysis</title>
 
     <link rel="stylesheet" href="css/pure-min.css"></head>
 
@@ -19,6 +19,7 @@
         <button type="submit" name="submit" class="pure-button pure-input-1-2 pure-button-primary">Uji Sentimen</button>
     </form>
 </body>
+	
 </html>
 
 <?php
