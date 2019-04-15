@@ -9,11 +9,11 @@
     <link rel="stylesheet" href="css/pure-min.css"></head>
 
 <body style="margin: 0 auto;width:90%;padding:10px;">
-	<h2>Sentiment Analysis Indonesia Sederhana</h2>
+	<h2>Sentiment/Opini Analysis</h2>
     <form class="pure-form" style="width:100%" action="" method="post">
     
         <fieldset class="pure-group">
-            <textarea name="kalimat" class="pure-input-1-2" placeholder="kalimat (contoh: ahok pantas menjadi gubernur jakarta)"></textarea>
+            <textarea name="kalimat" class="pure-input-1-2" placeholder="kalimat (contoh: kamu pantas mendapatkan dia)"></textarea>
         </fieldset>
     
         <button type="submit" name="submit" class="pure-button pure-input-1-2 pure-button-primary">Uji Sentimen</button>
